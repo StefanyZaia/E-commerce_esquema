@@ -7,5 +7,5 @@ O objetivo deste banco de dados é permitir o gerenciamento eficiente de um sist
 -Gestão de pagamentos.
 
 Tecnologias Utilizadas:
-Modelo: Modelo Relacional (Entidades e Relacionamentos).
-Ferramenta de Modelagem: MySQL Workbench.
+  Modelo: Modelo Relacional (Entidades e Relacionamentos).
+  Ferramenta de Modelagem: MySQL Workbench.
