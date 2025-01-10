@@ -1,4 +1,4 @@
-# E-commerceBD
+# E-commerce_esquema
 Este projeto consiste em um banco de dados relacional desenvolvido para um sistema de E-commerce. O modelo foi projetado com base na estrutura de entidades e relacionamentos necessários para gerenciar pedidos, produtos, estoque, clientes e fornecedores.
 O objetivo deste banco de dados é permitir o gerenciamento eficiente de um sistema de E-commerce, proporcionando funcionalidades como:
 -Cadastro e acompanhamento de pedidos.
